@@ -1,3 +1,3 @@
 # DataFest2020
 
-dsgsd
+Contagion Squad's submission for UCLA ASA Datafest 2020
